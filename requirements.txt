@@ -1,0 +1,12 @@
+langchain
+pillow
+opencv-python
+requests
+pypdf
+pypdf2
+chromadb
+faiss-cpu
+sentence_transformers
+hugchat
+frontend
+
