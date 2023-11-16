@@ -15,33 +15,34 @@ hugchat
 opencv
 pytesseract
 pillow 
-
 ```
 
- 	Here's a brief overview of the  project:  
-    
-	__Models Used:__ Models  used  include  ``` 
-						1. Llama2  70b  chat 
-						2. Codellama 34b 
-						3. Falcon 180b chat  
-						4. Mistrail-7b chat 
-					```
-					 
-    __API Development:__ For  the API our  engine  is  the  unofficial huggingchat  called `hugchat`. It  is  opensource  as  the same as  the  models.
-			We have  created  a custom wrapper  for the  `hugchat` unofficial api that "acts" as  our  LLM .
+Here's a brief overview of the  project:  
+
+__Models Used:__ Models  used  include :
+``` 
+1. Llama2  70b  chat 
+2. Codellama 34b 
+3. Falcon 180b chat  
+4. Mistrail-7b chat 
+```
+
+__API Development:__ For  the API our  engine  is  the  unofficial huggingchat  called `hugchat`. It  is  opensource  as  the same as  the  models.
+We have  created  a custom wrapper  for the  `hugchat` unofficial api that "acts" as  our  LLM .
 
 
 Getting Started
 
 To get started with our backend code, follow these steps:
 
-    Clone the repository using ``` Bash 
-git clone https://github.com/AIMazingTeam/edu-lm.git.
-				```
+Clone the repository using 
+``` Bash 
+git clone https://github.com/KolKemboi/AiMazing/
+```
 
-    Install dependencies using 
+Install dependencies using 
 ``` Bash
- pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
@@ -51,8 +52,8 @@ Our project is licensed under the MIT License. Please refer to the LICENSE file 
 
 We would like to extend our gratitude to the following individuals and organizations for their support and resources:
 
- -   Google Colab for providing free computing resources
- -  GitHub for hosting our code
+-   Google Colab for providing free computing resources
+-  GitHub for hosting our code
 
 Conclusion
 
