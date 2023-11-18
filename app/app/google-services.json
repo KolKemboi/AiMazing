@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95934441507",
+    "project_id": "learnai-14cc6",
+    "storage_bucket": "learnai-14cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95934441507:android:1c5a6a46007b2334e22996",
+        "android_client_info": {
+          "package_name": "com.ombati.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWyFRXnUKOMwFAaywRJE2ThqdY-CpG9Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
