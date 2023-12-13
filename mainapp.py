@@ -19,9 +19,8 @@ import warnings
 import random
 from ocr import  ocr_space_file
 import string
-os.environ["EMAIL"]  = "kenliz1738@gmail.com"
-os.environ["PASS"] = "Wambugu71?"
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["EMAIL"]  
+os.environ["PASS"] 
 warnings.filterwarnings("ignore")
 from streamlit_login_auth_ui.widgets import __login__
 
